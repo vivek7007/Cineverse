@@ -5,7 +5,7 @@
 import { useState, useEffect, useContext, createContext, useCallback, useRef } from "react";
 
 // ─── TMDB CONFIG ───────────────────────────────────────────────────────────────
-const TMDB_KEY = "aa9290fd8b5604c2a5aa7700716a4098"; // Replace with real key
+const TMDB_KEY = "ccdf1a600ee277f2df16fc5319b2b500"; // Replace with real key
 const TMDB = "https://api.themoviedb.org/3";
 const IMG = "https://image.tmdb.org/t/p";
 const BACKDROP = `${IMG}/w1280`;
